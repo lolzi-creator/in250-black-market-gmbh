@@ -7,6 +7,7 @@ Cleaning up and organizing the repo for Black Market Software GmbH.
 ## Docs
 
 - [Directory Structure](docs/01_verzeichnisstruktur.md)
+- [Branch Strategy](docs/02_branch_strategie.md)
 
 ## Tasks
 
